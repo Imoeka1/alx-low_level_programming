@@ -1,1 +1,1 @@
-script that compiles c files but doesnot limk
+script that processes link
