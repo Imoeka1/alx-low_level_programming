@@ -1,1 +1,1 @@
-script print comb
+srcipt print comb
