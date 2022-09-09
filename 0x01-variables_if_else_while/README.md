@@ -1,1 +1,1 @@
-script tp print tebah
+script to print basse
