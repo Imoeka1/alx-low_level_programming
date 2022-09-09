@@ -1,1 +1,1 @@
-scrite last digit
+script that prints alphabets
