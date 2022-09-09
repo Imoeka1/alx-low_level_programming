@@ -1,1 +1,1 @@
-scrit that prints numbers
+scrut numbers
