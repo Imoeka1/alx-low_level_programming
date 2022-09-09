@@ -1,1 +1,1 @@
-script to print basse
+script print comb
