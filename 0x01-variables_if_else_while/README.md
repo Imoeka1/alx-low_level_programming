@@ -1,1 +1,1 @@
-scrut numbers
+script tp print tebah
