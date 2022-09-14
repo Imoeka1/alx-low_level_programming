@@ -1,1 +1,1 @@
-script that prints sign of a number
+function that prints sign of a number
