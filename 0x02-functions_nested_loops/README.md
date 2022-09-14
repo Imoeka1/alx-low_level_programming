@@ -1,1 +1,1 @@
-sript times ten
+function that checks for lowercase
