@@ -1,1 +1,1 @@
-functions that computes integer
+functions that prints the last digit
