@@ -1,1 +1,1 @@
-script that checks alphabetic character
+script that prints sign of a number
