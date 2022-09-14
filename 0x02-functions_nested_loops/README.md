@@ -1,1 +1,1 @@
-function that prints
+functions that computes integer
