@@ -1,1 +1,1 @@
-functions that prints the last digit
+functions that prints last digit of a number
