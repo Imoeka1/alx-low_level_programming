@@ -1,1 +1,1 @@
-functions that prints alphabet
+sript times ten
