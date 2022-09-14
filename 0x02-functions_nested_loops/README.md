@@ -1,1 +1,1 @@
-federal agent jack buaer
+function that prints nine times table
