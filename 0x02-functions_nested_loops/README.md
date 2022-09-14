@@ -1,1 +1,1 @@
-program that prints putchar
+functions that prints alphabet
