@@ -1,1 +1,1 @@
-prints numbers one to nine
+functions that prints a diagonal line
