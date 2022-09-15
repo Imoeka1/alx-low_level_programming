@@ -1,1 +1,1 @@
-function that draws straight line
+print numbers up to
