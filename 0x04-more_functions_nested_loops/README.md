@@ -1,1 +1,1 @@
-print numbers up to
+prints numbers one to nine
