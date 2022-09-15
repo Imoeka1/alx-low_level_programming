@@ -1,1 +1,1 @@
-uppercase
+prints numbers
