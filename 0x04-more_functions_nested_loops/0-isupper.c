@@ -1,14 +1,14 @@
-#include "nain.h"
+#include "main.h"
 
 /**
- * _isupper - Checks for uppercase characters.
- * @c: The character to be checked.
+ * _isupper - function that checks for uppercase characters
+ * @c: single Letter input
  *
- * Return: 1 if character is uppercase, 0 otherwise.
+ * Return: Always Success
  */
 int _isupper(int c)
 {
-	if (c >= 'A' && c <= 'Z')
+	if (c >= 'a' && c <= 'z')
 		return (1);
 
 	else
