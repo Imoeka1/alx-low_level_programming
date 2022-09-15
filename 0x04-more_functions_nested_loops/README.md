@@ -1,1 +1,1 @@
-function that checks uppercase character
+function that checks for uppercase character
