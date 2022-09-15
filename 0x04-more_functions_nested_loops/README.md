@@ -1,1 +1,1 @@
-print new numbers
+function that draws straight line
