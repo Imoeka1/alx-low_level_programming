@@ -1,1 +1,1 @@
-prints most numbers
+prints the numbers
