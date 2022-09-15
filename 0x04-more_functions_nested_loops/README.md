@@ -1,1 +1,1 @@
-function that prints uppercase character
+function that checks for digit
