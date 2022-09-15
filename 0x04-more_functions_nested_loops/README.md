@@ -1,1 +1,1 @@
-functions that prints a diagonal line
+print numberss
