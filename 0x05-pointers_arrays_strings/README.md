@@ -1,1 +1,1 @@
-function that prints every other xter
+function thatprints half of a string
