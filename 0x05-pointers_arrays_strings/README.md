@@ -1,1 +1,1 @@
-prints every character of a string
+function that prints every other xter
