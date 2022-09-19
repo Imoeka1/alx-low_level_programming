@@ -1,1 +1,1 @@
-function thatprints half of a string
+functions eight
