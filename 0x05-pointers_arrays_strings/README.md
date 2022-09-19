@@ -1,1 +1,1 @@
-functions eight
+function that prints elements
