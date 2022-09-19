@@ -1,1 +1,1 @@
-function that prints elements
+willing sacrifice
