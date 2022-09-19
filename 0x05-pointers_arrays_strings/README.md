@@ -1,1 +1,1 @@
-function that takes a function
+functions that takes a pointer
