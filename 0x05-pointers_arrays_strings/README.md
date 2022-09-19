@@ -1,1 +1,1 @@
-functions that returns a string
+function that prints a string
