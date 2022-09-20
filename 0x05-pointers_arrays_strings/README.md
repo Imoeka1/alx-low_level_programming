@@ -1,1 +1,1 @@
-functions that copies strings pointed
+elements of an array
