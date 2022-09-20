@@ -1,1 +1,1 @@
-new string of characters
+ function that prints every other character of a string
