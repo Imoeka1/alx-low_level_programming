@@ -1,1 +1,1 @@
-puts string
+functions that copies strings pointed
