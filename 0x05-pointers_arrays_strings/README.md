@@ -1,1 +1,1 @@
-dont hate the hacker
+half the lies they tell
