@@ -1,1 +1,1 @@
-willing sacrifice
+new string of characters
