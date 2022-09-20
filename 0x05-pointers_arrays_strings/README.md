@@ -1,1 +1,1 @@
-functions that converts vstrings
+dont hate the hacker
