@@ -1,21 +1,20 @@
 #include "main.h"
 
 /**
- * puts2 - Prints one char out of two of a string
- * @str : Char array string type
- * Description : Print 1st char, then 3rd, then 5th, etc..
+ * puts2 - skips 2
+ * @str : string
  */
-
 void put2(char *str)
 {
 	int i;
-	
-	for (i = 0; str[i] != '\0'; i++)
+
+	i = 0;
+	while (str[i] != '\0')
 	{
 		if (i % 2 == 0)
 		_putchar(str[i]);
+		i++;
 	}
-
 	_putchar('\n');
 }
 
