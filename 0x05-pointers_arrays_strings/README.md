@@ -1,1 +1,1 @@
-elements of an array
+functions that converts vstrings
