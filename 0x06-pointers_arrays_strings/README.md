@@ -1,1 +1,1 @@
-a function that capitalizes all words of a string
+functions that encodes a string
