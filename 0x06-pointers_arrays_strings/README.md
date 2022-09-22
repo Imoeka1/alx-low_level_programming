@@ -1,1 +1,1 @@
-task that prints number
+magic string
