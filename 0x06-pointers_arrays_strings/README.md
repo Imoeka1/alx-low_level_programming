@@ -1,1 +1,1 @@
-print buffer
+functions that encodeds a string

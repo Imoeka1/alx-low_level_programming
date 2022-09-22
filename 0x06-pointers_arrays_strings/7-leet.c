@@ -57,5 +57,5 @@ char *leet(char *s)
 	return (s);
 
 }
-:wq
+
 
