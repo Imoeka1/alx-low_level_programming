@@ -1,1 +1,1 @@
-functions that encodes a string
+encodes a string
