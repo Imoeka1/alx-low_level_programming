@@ -1,1 +1,1 @@
-function that concentrate two strings
+a function that concatenates two strings
