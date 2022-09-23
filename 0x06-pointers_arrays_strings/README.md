@@ -1,1 +1,1 @@
-functions that encodeds a string
+functions that concatonates two strings
