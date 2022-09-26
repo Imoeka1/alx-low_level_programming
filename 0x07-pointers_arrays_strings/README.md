@@ -1,1 +1,1 @@
-function that searches a string
+function that locates a substring
