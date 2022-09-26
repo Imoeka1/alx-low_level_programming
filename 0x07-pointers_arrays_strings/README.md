@@ -1,1 +1,1 @@
-function that prints two diagonals
+function that sets a value of a pointer
