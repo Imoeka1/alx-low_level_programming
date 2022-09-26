@@ -1,1 +1,1 @@
-function that gets a length of a prefix
+function that searches a string
