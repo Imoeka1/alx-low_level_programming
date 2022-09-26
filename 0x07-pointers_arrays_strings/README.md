@@ -1,1 +1,1 @@
-functions that fills memory
+function that lolcates a character in a syring
