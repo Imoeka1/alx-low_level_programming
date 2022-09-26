@@ -1,1 +1,1 @@
-function that prints the cheesboard
+function that prints two diagonals
