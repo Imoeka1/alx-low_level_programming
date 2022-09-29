@@ -1,1 +1,1 @@
-prints a string in revesre
+returns the length of a string
