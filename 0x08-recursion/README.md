@@ -1,1 +1,1 @@
-functions that prints a string
+prints a string in revesre
