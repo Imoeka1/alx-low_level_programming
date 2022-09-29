@@ -1,1 +1,1 @@
-functions that returns factorial
+functions that retujrns the value of x
