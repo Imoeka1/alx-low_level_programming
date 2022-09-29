@@ -1,1 +1,1 @@
-function that writes square roots
+functions that counts prime numbers
