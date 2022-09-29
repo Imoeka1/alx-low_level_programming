@@ -1,1 +1,1 @@
-functions that counts prime numbers
+string palindrome
