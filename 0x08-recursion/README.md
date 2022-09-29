@@ -1,1 +1,1 @@
-string palindrome
+function wild card
