@@ -1,1 +1,1 @@
-program that prints its name
+program that prints number of
