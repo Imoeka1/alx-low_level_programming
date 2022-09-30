@@ -1,1 +1,1 @@
-program that prints all
+weather that prints numbers
