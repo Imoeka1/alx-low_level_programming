@@ -1,1 +1,1 @@
-program that prints number of
+program that prints all
