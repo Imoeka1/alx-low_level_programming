@@ -1,1 +1,1 @@
-all arguments
+function that splitsw two strings
