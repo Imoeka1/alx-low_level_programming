@@ -1,1 +1,1 @@
-functions that concatenates two strings
+function that returns a pointer
