@@ -1,1 +1,1 @@
-create arrays of chars
+returns a pointer
