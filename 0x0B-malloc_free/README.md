@@ -1,1 +1,1 @@
-function that returns a pointer
+functions that frees
