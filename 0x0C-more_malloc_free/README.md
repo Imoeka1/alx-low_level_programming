@@ -1,1 +1,1 @@
-memory of aray
+create an array
