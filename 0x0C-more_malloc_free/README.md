@@ -1,1 +1,1 @@
-functions that concamtanates two strings
+memory of aray
