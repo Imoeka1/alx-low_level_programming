@@ -1,1 +1,1 @@
-functions that writes memory
+functions that concamtanates two strings
