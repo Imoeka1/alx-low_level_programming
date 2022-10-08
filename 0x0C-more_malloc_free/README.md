@@ -1,1 +1,1 @@
-create an array
+reallocates the memory
