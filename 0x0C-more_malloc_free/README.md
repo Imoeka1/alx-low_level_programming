@@ -1,0 +1,1 @@
+functions that writes memory
