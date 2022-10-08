@@ -1,1 +1,1 @@
-reallocates the memory
+program that multiplies
