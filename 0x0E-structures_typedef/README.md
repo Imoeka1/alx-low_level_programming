@@ -1,1 +1,1 @@
-struct dog
+function that initiates a variable struct dog
