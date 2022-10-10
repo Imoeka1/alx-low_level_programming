@@ -1,1 +1,1 @@
-program that prints a file name
+function like macro
