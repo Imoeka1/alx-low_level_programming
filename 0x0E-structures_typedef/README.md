@@ -1,1 +1,1 @@
-struck dog
+function that creates a new dog
