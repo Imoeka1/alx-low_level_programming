@@ -1,1 +1,1 @@
-header file that defines zero
+file that defines a macro
