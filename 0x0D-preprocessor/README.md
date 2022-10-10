@@ -1,1 +1,1 @@
-file that defines a macro
+function like macro
