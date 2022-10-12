@@ -1,1 +1,1 @@
-fubction of a given parameter
+searching for integer
