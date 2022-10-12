@@ -1,1 +1,1 @@
-function that prints a name
+fubction of a given parameter
