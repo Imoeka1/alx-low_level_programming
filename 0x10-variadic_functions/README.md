@@ -1,1 +1,1 @@
-sum of all parameters
+fubction that prints numbers
