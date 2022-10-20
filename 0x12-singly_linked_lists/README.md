@@ -1,1 +1,1 @@
-add new node at the end
+function that frees a list
