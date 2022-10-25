@@ -1,1 +1,1 @@
-pop
+get node at index
