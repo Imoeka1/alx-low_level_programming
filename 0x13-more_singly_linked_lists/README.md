@@ -1,1 +1,1 @@
-prints all elements
+numbers linked with elements
