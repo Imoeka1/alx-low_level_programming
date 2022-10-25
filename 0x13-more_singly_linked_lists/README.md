@@ -1,1 +1,1 @@
-numbers linked with elements
+function that adds new nodes
