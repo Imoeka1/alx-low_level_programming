@@ -1,1 +1,1 @@
-function that adds new nodes
+add node at the end
