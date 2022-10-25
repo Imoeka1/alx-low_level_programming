@@ -1,1 +1,1 @@
-reverse list
+safer version
