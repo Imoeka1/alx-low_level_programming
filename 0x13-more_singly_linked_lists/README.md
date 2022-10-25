@@ -1,1 +1,1 @@
-delete at index
+reverse list
