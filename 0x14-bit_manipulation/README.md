@@ -1,1 +1,1 @@
-number returned in bits
+endiannes
