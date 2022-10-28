@@ -1,1 +1,1 @@
-value of 100
+number returned in bits
